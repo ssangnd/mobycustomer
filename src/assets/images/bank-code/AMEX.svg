@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="52" viewBox="0 0 104 52">
+  <g id="amex" transform="translate(0.5 -0.318)">
+    <g id="boundingbox" transform="translate(-0.5 0.318)" fill="rgba(255,0,0,0.1)" stroke="red" stroke-width="1" stroke-dasharray="4 4" opacity="0">
+      <rect width="104" height="52" stroke="none"/>
+      <rect x="0.5" y="0.5" width="103" height="51" fill="none"/>
+    </g>
+    <g id="Group_18364" data-name="Group 18364" transform="translate(29.5 4.318)">
+      <path id="Path_45812" data-name="Path 45812" d="M0,0V44H44V0Z" fill="#fff"/>
+      <path id="Path_45813" data-name="Path 45813" d="M40.619,29.078,44,32.675V25.511ZM17.579,22.951V35.265H28.064v-2.85H20.939V30.5h6.948V27.718H20.939V25.8h7.124v-2.85Zm22.077,0-3.606,3.94-3.571-3.94H28.064l5.8,6.157-5.8,6.157h4.292l3.624-3.976,3.606,3.976H44l-5.839-6.192L44,22.951ZM20.411,11.911l1.671,4.028H18.739ZM18.3,8.85,12.864,21.164h3.694l1.02-2.463h5.664l1.038,2.463h3.782L22.627,8.85Zm20.528,0-2.762,7.67L33.322,8.85h-5.26V21.164h3.325v-8.62l3.167,8.62h2.955l3.166-8.637v8.637H44V8.85ZM0,0V44H44V37.028H38.692l-2.733-3.022-2.747,3.022H15.71V22.944H10.061L17.068,7.087h6.757l2.412,5.432V7.087H34.6l1.452,4.094,1.462-4.094H44V0Z" fill="#0060af"/>
+    </g>
+  </g>
+</svg>

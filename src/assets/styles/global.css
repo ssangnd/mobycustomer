@@ -1,0 +1,29 @@
+* {
+  font-family: "Be Vietnam Pro", sans-serif !important;
+}
+body {
+  background-color: #F5F5F5;
+  margin: 0;
+  font-family: "Be Vietnam Pro", sans-serif !important ;
+}
+
+:root{
+  font-family: "Be Vietnam Pro", sans-serif !important ;
+  }
+  
+  
+  #nprogress .bar {
+    background: #e759a0 !important;
+  }
+  
+  #nprogress .peg {
+    box-shadow: 0 0 10px #e759a0, 0 0 5px #e759a0 !important;
+  }
+  
+  #nprogress .spinner-icon {
+    border-top-color: #e759a0 !important;
+    border-left-color: #e759a0 !important;
+  }
+  .quantity-item-input input{
+    text-align: center !important;
+  }
